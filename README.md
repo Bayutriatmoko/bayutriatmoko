@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Im Bayu Triatmoko👋
+## Im Study in College University of Dian Nuswantoro 📫
+## Semester 7📫
+## Enthusiast Code.
 
 <!--
 **Bayutriatmoko/bayutriatmoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
