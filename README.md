@@ -1,5 +1,4 @@
 ## Hi Im Bayu Triatmoko👋
-## Im Study in College University of Dian Nuswantoro 📫
 ## CyberSecurity Learner📫
 ## Enthusiast Code.
 
